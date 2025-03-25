@@ -8,6 +8,7 @@
 - I have another project that needs this library and I didn't want to see this library go to waste.
 Feel free to send pull requests to keep this brach alive. You'll be helping make duplicut avalible on
 Windows at long last. This is the end goal of why I've forked this library.
+- Felt bad for the creator who made it.
 
 ~ A termios porting for Windows ~
 
