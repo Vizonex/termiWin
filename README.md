@@ -2,6 +2,13 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Stars](https://img.shields.io/github/stars/veeso/termiWin.svg)](https://github.com/veeso/termiWin) [![Issues](https://img.shields.io/github/issues/veeso/termiWin.svg)](https://github.com/veeso/termiWin) [![Build](https://api.travis-ci.org/veeso/termiWin.svg?branch=master)](https://travis-ci.org/github/veeso/termiWin)
 
+
+## Why I forked this project
+- I actually develop terminal programs on a windows device (Specifially Windows 10)
+- I have another project that needs this library and I didn't want to see this library go to waste.
+Feel free to send pull requests to keep this brach alive. You'll be helping make duplicut avalible on
+Windows at long last. This is the end goal of why I've forked this library.
+
 ~ A termios porting for Windows ~
 
 Current Version 1.2.1 (16/11/2020)
